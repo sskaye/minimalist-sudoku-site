@@ -1,4 +1,4 @@
-# Minimalist Sudoku
+# Sudoku - Clean, Minimalist
 
 A clean, distraction-free Sudoku for iPhone.
 

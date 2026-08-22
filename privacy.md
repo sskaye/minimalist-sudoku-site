@@ -1,6 +1,6 @@
-# Minimalist Sudoku — Privacy Policy
+# Sudoku - Clean, Minimalist — Privacy Policy
 
-Minimalist Sudoku does not collect, store, or transmit any personal data.
+Sudoku - Clean, Minimalist ("the app") does not collect, store, or transmit any personal data.
 
 The app has no accounts, no analytics, no advertising, and no third-party services. Your game
 statistics, settings and in-progress puzzle are stored on your device. If iCloud is enabled on
