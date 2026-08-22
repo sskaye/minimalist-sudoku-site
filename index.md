@@ -3,4 +3,4 @@
 A clean, distraction-free Sudoku for iPhone.
 
 - [Privacy policy](privacy)
-- Support: sskaye@gmail.com
+- Support: skaye@sciforge.ai

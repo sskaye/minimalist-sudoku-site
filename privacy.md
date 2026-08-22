@@ -7,6 +7,6 @@ statistics, settings and in-progress puzzle are stored on your device. If iCloud
 your device and in the app's settings, that same data is synced between your devices through
 your own iCloud account using Apple's CloudKit; we have no access to it and operate no servers.
 
-Questions: sskaye@gmail.com
+Questions: skaye@sciforge.ai
 
 _Last updated: 22 August 2026_
